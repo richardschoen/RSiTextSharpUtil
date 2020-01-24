@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSiTextSharpUtil", "RSiTextSharpUtil\RSiTextSharpUtil.csproj", "{60A81BB9-41AE-4D22-9AC2-21856C46FD5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSiTextSharpPdfMerge", "RSiTextSharpPdfMerge\RSiTextSharpPdfMerge.csproj", "{9037AC3C-3D70-46C1-A1A5-8B4B6CFE27AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60A81BB9-41AE-4D22-9AC2-21856C46FD5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60A81BB9-41AE-4D22-9AC2-21856C46FD5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60A81BB9-41AE-4D22-9AC2-21856C46FD5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60A81BB9-41AE-4D22-9AC2-21856C46FD5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9037AC3C-3D70-46C1-A1A5-8B4B6CFE27AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9037AC3C-3D70-46C1-A1A5-8B4B6CFE27AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9037AC3C-3D70-46C1-A1A5-8B4B6CFE27AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9037AC3C-3D70-46C1-A1A5-8B4B6CFE27AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {269E03F9-080A-4B40-ADAE-069DBED98B1C}
+	EndGlobalSection
+EndGlobal
